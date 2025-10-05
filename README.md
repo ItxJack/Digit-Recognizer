@@ -24,7 +24,7 @@ This project covers several key machine learning concepts:
 No local installation is required. You can run the entire project in your browser using Google Colab.
 
 * **Run the Notebook:**
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ItxJack/Digit-Recognizer/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ItxJack/Digit-Recognizer/blob/main/DigitRecognizer.ipynb)
 ---
 ## Dataset
 
